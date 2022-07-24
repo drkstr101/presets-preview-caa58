@@ -14,6 +14,10 @@ sections:
       - label: Read the Docs
         url: 'https://docs.stackbit.com/'
         theme: secondary
+  - type: HeroSection
+    heading: Hero Heading
+    subheading: Hero Subheading
+    buttons: []
   - type: CardGridSection
     heading: Jump to Topic
     subheading: |
